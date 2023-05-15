@@ -1,0 +1,11 @@
+{
+  "puerto": "4",
+  "arriba": "w",
+  "abajo": "s",
+  "izquierda": "a",
+  "derecha": "d",
+  "select": "r",
+  "start": "shif",
+  "botonA": "enter",
+  "botonB": "escape"
+}
